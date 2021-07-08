@@ -1,0 +1,2 @@
+api-umamusume.cygames.jp
+api-priconne-redive.cygames.jp
